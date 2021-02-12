@@ -45,4 +45,4 @@ printf("hello world");
 
 [git](https://git-scm.com
 ### inserting images
-![bhanu](https://github.com/bhanuteja-09/markdownsyntax/edit/main/README.md)
+![bhanu](https://github.com/bhanuteja-09/markdownsyntax/blob/master/img1.jpg)
