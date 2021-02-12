@@ -30,15 +30,19 @@ gfdguimposlv-'.nhucixjnk
        + eeea
        + eeeb
 ### code
-`python
+`
+python
 print("hello")
+`
 ```
 ### task insert a code of  hello in c
 int main{ }
 {
 printf("hello world");
 }
+``` 
 ### inserting urls
+
 [git](https://git-scm.com
 ### inserting images
 ![bhanu](https://github.com/bhanuteja-09/markdownsyntax/edit/main/README.md)
