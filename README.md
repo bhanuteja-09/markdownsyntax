@@ -33,3 +33,8 @@ gfdguimposlv-'.nhucixjnk
 `python
 print("hello")
 ```
+### task insert a code of  hello in c
+int main{ }
+{
+printf("hello world");
+}
