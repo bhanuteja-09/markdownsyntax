@@ -39,4 +39,6 @@ int main{ }
 printf("hello world");
 }
 ### inserting urls
-[git](https://git-scm.com/)
+[git](https://git-scm.com
+### inserting images
+![bhanu](https://github.com/bhanuteja-09/markdownsyntax/edit/main/README.md)
