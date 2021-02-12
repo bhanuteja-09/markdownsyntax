@@ -47,5 +47,6 @@ printf("hello world");
 ### inserting images
 ![bhanu](https://github.com/bhanuteja-09/markdownsyntax/blob/master/img1.jpg)
 ### inserting videos
+
 [![video].(https://img.youtube.com/vi/vMLk_T0PPbk/0.jpg).].(https://www.youtube.com/watch?v=vMLk_T0PPbk)
 
