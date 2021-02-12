@@ -40,3 +40,9 @@ printf("hello world");
 }
 ### inserting urls
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+- college weg site link
+[college link](institute-of-technology-anhttps://collegedunia.com/college/14034-krishna-chaitanya-d-sciences-kits-prakasam)
+- gmail link
+[gmail link](ail%2F&shttps://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fms=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flo)
+- git offitial site url
+[git offitial link](https://git-scm.com/)
